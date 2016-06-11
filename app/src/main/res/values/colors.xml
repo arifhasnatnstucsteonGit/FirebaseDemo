@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#78909c</color>
+    <color name="colorPrimaryDark">#607d8b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navIndicatorColor">#000000</color>
+    <color name="silverColor">#C0C0C0</color>
+    <color name="lightGrayColor">#D3D3D3</color>
+    <color name="darkGrayColor">#A9A9A9</color>
+    <color name="grayColor">#808080</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#78909c</color>
+
+    <color name="lightGray">#D3D3D3</color>
+    <color name="silver">#D3D3D3</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkGrayhard">#78909c</color>
+
+
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#F2F2F2</color>
+    <color name="feed_item_border">#F2F2F2</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="textColor">#a0a3a7</color>
+    <color name="layoutBacColor">#E3E4E4</color>
+    <color name="black">#000000</color>
+    <color name="green">#0A2A0A</color>
+</resources>
